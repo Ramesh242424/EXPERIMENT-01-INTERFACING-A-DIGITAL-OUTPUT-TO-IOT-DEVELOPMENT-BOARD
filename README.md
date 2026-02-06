@@ -1,14 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
-06-02-2026
-**NAME:**
-RAMESH KRISHNAN S
-**ROLL NO:**
-212224220076
-**DEPARTMENT:**
-BTECH IT
+**DATE:** 06-02-2026
+
+**NAME:** RAMESH KRISHNAN S
+
+**ROLL NO:** 212224220076
+
+**DEPARTMENT:** BTECH IT
 ## Aim
 
 To Interface a Digital output (LED) to ARM IOT development board and write a program to blink an LED.
